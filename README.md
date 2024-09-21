@@ -1,56 +1,24 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/ridex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/ridex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/ridex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DJAK-KODM5E?style=social)](https://youtu.be/DJAK-KODM5E)
+Deskripsi Proyek
+Selamat datang di proyek Website Penyewaan Alat Berat yang dilengkapi dengan aplikasi Augmented Reality (AR). Website ini dirancang untuk memberikan kemudahan dalam mencari, menyewa, dan mendapatkan informasi mendetail mengenai berbagai alat berat yang tersedia.
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+Fitur Utama
+Katalog Alat Berat: Temukan berbagai alat berat dengan informasi lengkap mengenai spesifikasi dan harga sewa.
+Aplikasi AR: Gunakan aplikasi AR untuk memindai alat berat dan mendapatkan informasi lebih mendalam dengan mudah.
+Pemesanan Online: Lakukan pemesanan alat berat secara langsung melalui platform kami.
+Informasi Interaktif: Akses informasi detail mengenai alat berat hanya dengan memindai gambar target menggunakan aplikasi AR kami.
+Cara Menggunakan
+Menelusuri Katalog: Kunjungi bagian katalog untuk melihat alat berat yang tersedia.
+Pilih Alat: Klik pada alat yang ingin disewa untuk melihat detailnya.
+Gunakan Aplikasi AR: Unduh aplikasi AR melalui tautan yang telah disediakan untuk memindai alat berat dan mendapatkan informasi lebih lanjut.
+Lakukan Pemesanan: Setelah memilih alat, ikuti langkah pemesanan untuk menyelesaikan transaksi.
+Teknologi yang Digunakan
+HTML
+CSS
+JavaScript
+Augmented Reality SDK
+Instalasi
+Untuk menggunakan aplikasi AR, unduh dari tautan yang telah disediakan dan ikuti petunjuk instalasi.
 
-  <h2 align="center">Ridex - Car rent website</h2>
 
-  Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/ridex/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Ridex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Ridex** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/ridex.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/ridex.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Kontak
+Untuk pertanyaan atau informasi lebih lanjut, Anda dapat menghubungi kami di [amuh1461@gmail.com].
